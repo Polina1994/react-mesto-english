@@ -29,3 +29,11 @@ https://github.com/Polina1994/react-mesto-auth
 * npm run build - launch project build
 * npm run start - server start 
 * npm run deploy - publishing the build to github pages
+
+## Sign in
+
+# You can register on the site at the mail address [@yandex.ru](www.mail.yandex.com)
+# or you can enter the site using this email and password
+
+* email: polinako1194@yandex.ru
+* password: polina
